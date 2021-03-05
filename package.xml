@@ -5,7 +5,7 @@
   <version>2.0.0</version>
   <license>BSD</license>
 
-  <description>minimal example to show bad RCLCPP macro problem</description>
+  <description>minimal example to show bad rclcpp macro problem</description>
 
   <maintainer email="clalancette@osrfoundation.org">Chris Lalancette</maintainer>
 
